@@ -1,2 +1,4 @@
-This is my frist file 
-We are in the git 101 session 
+This is my frist file.
+I have modfied this one 
+Please see it
+I want to see it, 
